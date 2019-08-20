@@ -23,6 +23,7 @@
 3. 要在 中间区域放置一个 router-view 来展示路由匹配到的组件
 
 ## 改造 tabbar 为 router-link
+....
 
 ## 设置路由高亮
 
